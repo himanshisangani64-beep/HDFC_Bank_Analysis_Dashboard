@@ -179,7 +179,7 @@ It provides an overview of total deposits, target achievement, year-over-year gr
 
 ### 2. Dashboard Screenshot
 
-![HDFC Bank Deposits vs Targets Dashboard](Asets/Dashboard%20Image/Page_1.png)
+![HDFC Bank Deposits vs Targets Dashboard](Dashboard%20Image/1.Deposits%20vs%20Targets.png)
 
 ### 3. Key Performance Indicators
 
@@ -222,7 +222,7 @@ It helps understand the contribution of different loan products and geographical
 
 ### 2. Dashboard Screenshot
 
-![HDFC Bank Loan Portfolio Dashboard](Asets/Dashboard%20Image/Page_2.png)
+![HDFC Bank Loan Portfolio Dashboard](Dashboard%20Image/2.Lone%20Protfolio.png)
 
 ### 3. Key Performance Indicators
 
@@ -267,7 +267,7 @@ It helps compare transaction volumes, average transaction values, branch perform
 
 ### 2. Dashboard Screenshot
 
-![HDFC Bank Branch Performance Dashboard](Asets/Dashboard%20Image/Page_3.png)
+![HDFC Bank Branch Performance Dashboard](Dashboard%20Image/3.Branch%20Performance.png)
 
 ### 3. Key Performance Indicators
 
