@@ -179,7 +179,7 @@ It provides an overview of total deposits, target achievement, year-over-year gr
 
 ### 2. Dashboard Screenshot
 
-![HDFC Bank Deposits vs Targets Dashboard](Images/Deposits_vs_Targets.png)
+![HDFC Bank Deposits vs Targets Dashboard](Asets/Dashboard%20Image/Page_1.png)
 
 ### 3. Key Performance Indicators
 
@@ -222,7 +222,7 @@ It helps understand the contribution of different loan products and geographical
 
 ### 2. Dashboard Screenshot
 
-![HDFC Bank Loan Portfolio Dashboard](Images/Loan_Portfolio.png)
+![HDFC Bank Loan Portfolio Dashboard](Asets/Dashboard%20Image/Page_2.png)
 
 ### 3. Key Performance Indicators
 
@@ -267,7 +267,7 @@ It helps compare transaction volumes, average transaction values, branch perform
 
 ### 2. Dashboard Screenshot
 
-![HDFC Bank Branch Performance Dashboard](Images/Branch_Performance.png)
+![HDFC Bank Branch Performance Dashboard](Asets/Dashboard%20Image/Page_3.png)
 
 ### 3. Key Performance Indicators
 
@@ -304,32 +304,10 @@ It helps compare transaction volumes, average transaction values, branch perform
 
 ## 🎥 Dashboard Walkthrough & Demonstration
 
-Explore the HDFC Bank Interactive Banking Analytics Dashboard through a complete video walkthrough.
+Explore the HDFC Bank Analysis Dashboard through a comprehensive video walkthrough showcasing the data visualization, interactive reporting features, and key business insights developed using Microsoft Power BI.
 
-The demonstration covers all three Power BI dashboards:
+[**View the Full Project Walkthrough**](https://drive.google.com/file/d/18kzfIBiyh-Ho2qJ3nDeMYSuQcSVQce03/view?usp=sharing)
 
-**1. Deposits vs Targets Dashboard**
-- Total deposits and deposit targets
-- Achievement percentage and YoY growth
-- Product-wise and geographical deposit analysis
-
-**2. Loan Portfolio Dashboard**
-- Total loan book and active loans
-- EMI collections and repayment analysis
-- Outstanding loan amount by product
-
-**3. Branch Performance Dashboard**
-- Total branches and transactions
-- Branch-wise transaction analysis
-- Geographical and branch performance analysis
-
-The video demonstrates interactive slicers, KPI cards, financial analysis, geographical visualizations, and key business insights developed using Microsoft Power BI.
-
-### ▶️ Watch Full Dashboard Walkthrough
-
-**[Click Here to Watch the Full Project Demonstration](PASTE_YOUR_VIDEO_LINK_HERE)**
-
-*Note: Replace the placeholder with your actual Google Drive or YouTube video link.*
 
 ---
 
